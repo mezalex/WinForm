@@ -1,0 +1,36 @@
+c:\users\alex\documents\visual studio 2015\Projects\IKCWH5\IKCWH5\bin\Debug\IKCWH5.exe.config
+c:\users\alex\documents\visual studio 2015\Projects\IKCWH5\IKCWH5\obj\Debug\IKCWH5.csprojResolveAssemblyReference.cache
+c:\users\alex\documents\visual studio 2015\Projects\IKCWH5\IKCWH5\obj\Debug\IKCWH5.Form1.resources
+c:\users\alex\documents\visual studio 2015\Projects\IKCWH5\IKCWH5\obj\Debug\IKCWH5.Properties.Resources.resources
+c:\users\alex\documents\visual studio 2015\Projects\IKCWH5\IKCWH5\obj\Debug\IKCWH5.csproj.GenerateResource.Cache
+c:\users\alex\documents\visual studio 2015\Projects\IKCWH5\IKCWH5\bin\Debug\IKCWH5.exe
+c:\users\alex\documents\visual studio 2015\Projects\IKCWH5\IKCWH5\bin\Debug\IKCWH5.pdb
+c:\users\alex\documents\visual studio 2015\Projects\IKCWH5\IKCWH5\obj\Debug\IKCWH5.exe
+c:\users\alex\documents\visual studio 2015\Projects\IKCWH5\IKCWH5\obj\Debug\IKCWH5.pdb
+G:\IKCWH5\IKCWH5\bin\Debug\IKCWH5.exe.config
+G:\IKCWH5\IKCWH5\obj\Debug\IKCWH5.exe
+G:\IKCWH5\IKCWH5\obj\Debug\IKCWH5.pdb
+G:\IKCWH5\IKCWH5\bin\Debug\IKCWH5.exe
+G:\IKCWH5\IKCWH5\bin\Debug\IKCWH5.pdb
+G:\IKCWH5\IKCWH5\obj\Debug\IKCWH5.csprojResolveAssemblyReference.cache
+G:\IKCWH5\IKCWH5\obj\Debug\IKCWH5.Form1.resources
+G:\IKCWH5\IKCWH5\obj\Debug\IKCWH5.Properties.Resources.resources
+G:\IKCWH5\IKCWH5\obj\Debug\IKCWH5.csproj.GenerateResource.Cache
+C:\Users\Alex\Desktop\IKCWH5\IKCWH5\bin\Debug\IKCWH5.exe.config
+C:\Users\Alex\Desktop\IKCWH5\IKCWH5\obj\Debug\IKCWH5.exe
+C:\Users\Alex\Desktop\IKCWH5\IKCWH5\obj\Debug\IKCWH5.pdb
+C:\Users\Alex\Desktop\IKCWH5\IKCWH5\bin\Debug\IKCWH5.exe
+C:\Users\Alex\Desktop\IKCWH5\IKCWH5\bin\Debug\IKCWH5.pdb
+C:\Users\Alex\Desktop\IKCWH5\IKCWH5\obj\Debug\IKCWH5.csprojResolveAssemblyReference.cache
+C:\Users\Alex\Desktop\IKCWH5\IKCWH5\obj\Debug\IKCWH5.Form1.resources
+C:\Users\Alex\Desktop\IKCWH5\IKCWH5\obj\Debug\IKCWH5.Properties.Resources.resources
+C:\Users\Alex\Desktop\IKCWH5\IKCWH5\obj\Debug\IKCWH5.csproj.GenerateResource.Cache
+C:\Users\Alex\Desktop\8. félév\Szoftech 2015-16-02\IKCWH5\IKCWH5\bin\Debug\IKCWH5.exe.config
+C:\Users\Alex\Desktop\8. félév\Szoftech 2015-16-02\IKCWH5\IKCWH5\obj\Debug\IKCWH5.exe
+C:\Users\Alex\Desktop\8. félév\Szoftech 2015-16-02\IKCWH5\IKCWH5\obj\Debug\IKCWH5.pdb
+C:\Users\Alex\Desktop\8. félév\Szoftech 2015-16-02\IKCWH5\IKCWH5\obj\Debug\IKCWH5.csprojResolveAssemblyReference.cache
+C:\Users\Alex\Desktop\8. félév\Szoftech 2015-16-02\IKCWH5\IKCWH5\obj\Debug\IKCWH5.Form1.resources
+C:\Users\Alex\Desktop\8. félév\Szoftech 2015-16-02\IKCWH5\IKCWH5\obj\Debug\IKCWH5.Properties.Resources.resources
+C:\Users\Alex\Desktop\8. félév\Szoftech 2015-16-02\IKCWH5\IKCWH5\obj\Debug\IKCWH5.csproj.GenerateResource.Cache
+C:\Users\Alex\Desktop\8. félév\Szoftech 2015-16-02\IKCWH5\IKCWH5\bin\Debug\IKCWH5.exe
+C:\Users\Alex\Desktop\8. félév\Szoftech 2015-16-02\IKCWH5\IKCWH5\bin\Debug\IKCWH5.pdb
